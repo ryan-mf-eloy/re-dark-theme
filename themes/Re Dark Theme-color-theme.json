@@ -1,5 +1,5 @@
 {
-	"name": "Re Dark Theme",
+	"name": "RE Dark Theme",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#3c4250",
@@ -326,7 +326,12 @@
 		{
 			"name": "Keyword",
 			"scope": [
-				"keyword"
+				"punctuation.definition.template-expression",
+				"keyword.control.at-rule.import",
+				"punctuation.definition.template-expression",
+				"keyword.control.import",
+				"keyword.control.export.js",
+				"keyword.control.from.js"
 			],
 			"settings": {
 				"foreground": "#ff79c6"

@@ -1,6 +1,6 @@
 {
   "name": "re-dark-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "RE Dark Theme",
   "description": "RE Dark Theme, is based on the Dracula Theme. Some color adjustments and styling of the Vs Code were made.",
   "publisher": "matheloy",
@@ -12,11 +12,11 @@
   ],
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#50fa7b",
+    "color": "#171920",
     "theme": "dark"
   },
   "author": {
-    "name": "seanmcbreen"
+    "name": "Ryan Matheus Freitas Eloy"
   },
   "devDependencies": {
     "vscode": "0.10.x"
